@@ -3,6 +3,8 @@ Continuous Integration Demo
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
+[![Run unit tests](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml/badge.svg)](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml)
+
 ## Automatic Testing
 
 1. Create a repository on Github containing this starter code
