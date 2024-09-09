@@ -4,6 +4,7 @@ Continuous Integration Demo
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 [![Run unit tests](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml/badge.svg)](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml)
+[![Style check with flake8](https://github.com/oaoak/ci-demo/actions/workflows/style-check.yml/badge.svg)](https://github.com/oaoak/ci-demo/actions/workflows/style-check.yml)
 
 ## Automatic Testing
 
