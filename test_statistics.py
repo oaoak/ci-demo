@@ -98,3 +98,4 @@ class StatisticsTest(TestCase):
         self.assertAlmostEqual(calculated_variance, expected_variance)
         self.assertAlmostEqual(stdev(data), sqrt(expected_variance))
 
+
