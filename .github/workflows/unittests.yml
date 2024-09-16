@@ -32,7 +32,13 @@ jobs:
     - name: Run unit tests with coverage
       run: |
         coverage run --branch -m pytest
+        coverage xml
 
     - name: Generate a coverage report
       run: |
         coverage report
+
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        files: coverage.xml    
