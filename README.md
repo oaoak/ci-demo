@@ -1,5 +1,6 @@
 [![Run unit tests](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml/badge.svg)](https://github.com/oaoak/ci-demo/actions/workflows/unittests.yml)
 [![Style check with flake8](https://github.com/oaoak/ci-demo/actions/workflows/style-check.yml/badge.svg)](https://github.com/oaoak/ci-demo/actions/workflows/style-check.yml)
+[![codecov](https://codecov.io/github/oaoak/ci-demo/graph/badge.svg?token=IBFPYNDKZF)](https://codecov.io/github/oaoak/ci-demo)
 
 Continuous Integration Demo
 ===========================
